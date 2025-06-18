@@ -1,0 +1,4 @@
+playwright
+ollama
+chromadb
+sentence-transformers

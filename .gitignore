@@ -1,0 +1,31 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+
+# Ignore system files
+.DS_Store
+
+# Ignore Chroma vector DB files
+chroma_db/
+*.sqlite3
+
+# Ignore screenshot files if not needed in repo
+*.png
+screenshots/
+
+# Ignore outputs if not needed in repo
+outputs/
+
+# Ignore log or debug files
+*.log
+*.tmp
+
+# VS Code settings (optional)
+.vscode/
+
